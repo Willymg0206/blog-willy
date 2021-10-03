@@ -1,0 +1,50 @@
+h1{
+	font-size: 60px;
+	color: #F55A6D;
+	text-align: center;
+	font-family: Bernard MT Condensed;
+}
+
+form{
+	width: 500px;
+	padding: 16px;
+	border-radius: 10px;
+	margin: auto;
+	background-color: #BEF1FF; 
+}
+
+form fieldset{
+	background-color: #F9FCFF; 
+	color: #444444;
+	border-color: black;
+	border: 9px groove (internal value);
+	border-radius: 7px;
+	width: 450px;
+}
+
+form fieldset legend{
+	font-size: 35px;
+	color: #8AC2FE;
+	font-family: Forte;
+}
+
+.boton {
+    background-color: #9E9E9E;
+    padding: 5px 10px;
+    text-align: center;
+    display: inline-block;
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+.volver {
+	background-color: #00b8e4;
+    padding: 10px 30px;
+    text-align: center;
+    display: inline-block;
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
